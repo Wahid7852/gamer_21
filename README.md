@@ -31,8 +31,10 @@ Dot and Boxes is a classic pen-and-paper game where two players take turns conne
    3. Down Arrow: Draw the bottom line of the selected cell.
    4. Left Arrow: Draw the left line of the selected cell.
 
-   or you can also use the mouse to select cells by clicking on them.
-
+# 📊 GitHub Stats:
+[![Wahid7852's GitHub | Stats](https://stats.quine.sh/Wahid7852/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wahid7852)
+[![Wahid7852's GitHub | Topics Over Time](https://stats.quine.sh/Wahid7852/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wahid7852)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wahid7852&theme=merko&hide_border=false)<br/>
 
 3. When a player completes the fourth side of a box, they earn a point and get an additional turn.
 
